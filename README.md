@@ -7,6 +7,29 @@
   - Entry Point - server.js 
 
 
+## Branch Rules & Commit Rules
+
+### Branch
+- feat / api name
+- fix / bug fix
+- modify / api modifiy
+
+### Commit
+- Google Style
+- Group
+  - Client
+  - Server
+
+- Commit Type
+  - Feat : new API
+  - fix : fix the bug
+  - docs : Do modify the docs
+  - modify
+  - correct : error typing
+  - update
+  - move
+  - refactor 
+
 ## Skill & Version
 - nodeJS 14.17.5
 - Express - 4.18.2
