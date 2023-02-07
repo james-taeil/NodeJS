@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Test Message",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-taeil/NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/james-taeil/NodeJS/issues"
+  },
+  "homepage": "https://github.com/james-taeil/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

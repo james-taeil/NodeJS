@@ -1,0 +1,18 @@
+# global standard pattern
+
+# compiled output
+/node_moudules
+
+# Logs
+
+# OS
+
+# Tests
+
+# IDE & Editors
+
+# IDE - VSCode
+
+# ETC
+/package-lock.json
+.env
