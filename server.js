@@ -32,5 +32,5 @@ app.listen(8080, function() {
 
 
 app.get('/list', function(req, res) {
-
+  res.send("Welcome list page");
 });
